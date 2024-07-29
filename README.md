@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=300&pause=1000&color=000000&width=720&height=60&lines=I+believe+that+daily+small+efforts+can+make+a+big+difference.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Korean&weight=300&pause=1000&color=000000&width=740&height=60&lines=I+believe+that+daily+small+efforts+can+make+a+big+difference.)](https://git.io/typing-svg)
 
 🖥️ Mind
 <ul>
@@ -15,3 +15,13 @@
  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next-icon" /> <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter-icon" />
  <img src="https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="sass-icon"/> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="vite-icon"/>
  
+<br/>
+
+𖣠 Stats
+ 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/seoulite2017" />
+</a>
+
+
+
