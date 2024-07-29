@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Korean&weight=300&pause=1000&color=000000&width=740&height=60&lines=I+believe+that+daily+small+efforts+can+make+a+big+difference.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=000000&width=740&height=60&lines=I+believe+that+daily+small+efforts+can+make+a+big+difference.)](https://git.io/typing-svg)
 
 🖥️ Mind
 <ul>
